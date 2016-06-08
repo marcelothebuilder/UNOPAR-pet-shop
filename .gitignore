@@ -235,5 +235,8 @@ _Pvt_Extensions
 # FAKE - F# Make
 .fake/
 
+# WINDOWS
+desktop.ini
+
 # specific
 .private/
